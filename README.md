@@ -7,6 +7,9 @@ Browser testing provided by BrowserStack.
 ## Current Version
 2.1.3
 
+## angular version
+https://github.com/AysadKozanoglu/angular-toastr
+
 ## Demo
 - Demo can be found at http://codeseven.github.io/toastr/demo.html
 - [Demo using FontAwesome icons with toastr](http://plnkr.co/edit/6W9URNyyp2ItO4aUWzBB?p=preview)
